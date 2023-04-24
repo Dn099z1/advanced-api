@@ -4,8 +4,9 @@ Primeiro, execute o servidor de desenvolvimento:
 
 npm run dev
 # ou
-desenvolvedor de fios
+yarn dev
+
 # ou
-desenvolvedor pnpm
+pnpm dev
 Abra http://localhost:3000 com seu navegador para ver o resultado.
 
